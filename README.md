@@ -1,1 +1,1 @@
-![Info terminal](https://profile-terminal.vercel.app/api?username=kevin&bgcolor=e4ebed&color1=242629&color2=97bfcc&color3=86aeba&color4=d993ac)
+![](https://komarev.com/ghpvc/?username=kevin&color=ffabb7&style=flat-square) as of 6/21/2021

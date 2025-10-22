@@ -8,3 +8,5 @@ more broadly, studying [emergence](https://en.wikipedia.org/wiki/Emergence) in a
 ut austin computer science.
 
 here you will find largely incomplete projects and messy code 😸
+
+[google scholar](https://scholar.google.com/citations?user=yWzpNDgAAAAJ&hl=en)
